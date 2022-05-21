@@ -1,6 +1,9 @@
 # mausam_app
 
 A new Flutter project.
+Mausam App fetches the latest weather report.
+It will predict the weather and give temperature, humidity, and wind speed information.
+The weather data is extracted from "OPENWEATHER.API".
 
 ## Getting Started
 
